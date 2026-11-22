@@ -1,1 +1,1 @@
-eval(process.env.QZ)
+eval(process.env.Q7Z)
